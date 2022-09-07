@@ -21,6 +21,7 @@
  <li><a href="https://styled-components.com/">Styled components</a>;</li>
  <li><a href="https://styled-icons.dev/">Styled icons</a>;</li>
  <li><a href="https://www.npmjs.com/package/react-sticky-box">React stick box</a>;</li>
+ <li>Mobile first;</li>
  </ul>
  <h3>Aprendizado:</h3>
  <ul>
